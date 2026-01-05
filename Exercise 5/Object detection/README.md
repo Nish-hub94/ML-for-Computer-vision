@@ -1,10 +1,10 @@
-# Object Detection with YOLOv2 Tiny 🐶📸
+# Object Detection with YOLOv2 Tiny 
 
 This repository demonstrates **object detection** using **YOLOv2 Tiny** (DarkNet backbone) with TensorFlow/Keras. The model detects objects in images in real-time and was run in **Google Colab**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Real-time object detection with YOLOv2 Tiny
 - Easy setup using Google Colab
@@ -13,7 +13,7 @@ This repository demonstrates **object detection** using **YOLOv2 Tiny** (DarkNet
 
 ---
 
-## 🛠 Setup
+## Setup
 
 1. Open the notebook in **Google Colab**.
 2. Install dependencies:
